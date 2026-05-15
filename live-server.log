@@ -1,0 +1,14 @@
+nohup: ignoring input
+npm warn deprecated urix@0.1.0: Please see https://github.com/lydell/urix#deprecated
+npm warn deprecated resolve-url@0.2.1: https://github.com/lydell/resolve-url#deprecated
+npm warn deprecated source-map-url@0.4.1: See https://github.com/lydell/source-map-url#deprecated
+npm warn deprecated source-map-resolve@0.5.3: See https://github.com/lydell/source-map-resolve#deprecated
+npm warn deprecated opn@6.0.0: The package has been renamed to `open`
+npm warn deprecated uuid@3.4.0: uuid@10 and below is no longer supported.  For ESM codebases, update to uuid@latest.  For CommonJS codebases, use uuid@11 (but be aware this version will likely be deprecated in 2028).
+[32mServing "." at http://127.0.0.1:5500[39m
+[36mReady for changes[39m
+[36mChange detected[39m live-server.log
+[0mGET /favicon.ico [33m404[0m 1.741 ms - 150[0m
+[36mChange detected[39m live-server.log
+[36mChange detected[39m index.html
+[36mChange detected[39m live-server.log
